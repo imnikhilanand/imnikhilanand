@@ -9,11 +9,17 @@
 
 - 📫 How to reach me **anand.nik@northeastern.edu**
 
+- ✏️ Skills
+
 <p align="left">
+
 <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="CSS" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="CSS" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="CSS" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="CSS" width="40" height="40"/>
+
+<br> 
+
 <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="CSS" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="CSS" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" alt="CSS" width="40" height="40"/>
@@ -27,6 +33,8 @@
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/apache_pig/apache_pig-icon.svg" alt="pytorch" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="pytorch" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></p>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imnikhilanand&show_icons=true" alt="imnikhilanand" /></p>
