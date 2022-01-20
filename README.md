@@ -10,12 +10,17 @@
 - 📫 How to reach me **anand.nik@northeastern.edu**
 
 <p align="left">
-
-<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="40" height="40"/>
-
- <img src="https://www.vectorlogo.zone/logos/hive/hive-icon.svg" alt="CSS" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="CSS" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="CSS" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="CSS" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="CSS" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="CSS" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="CSS" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" alt="CSS" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="CSS" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" alt="CSS" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="CSS" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/hive/hive-icon.svg" alt="CSS" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="CSS" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="CSS" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/dask/dask-icon.svg" alt="CSS" width="40" height="40"/> 
