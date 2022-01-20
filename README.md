@@ -17,9 +17,6 @@
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="CSS" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="CSS" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="CSS" width="40" height="40"/>
-
-<br> 
-
 <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="CSS" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="CSS" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" alt="CSS" width="40" height="40"/>
